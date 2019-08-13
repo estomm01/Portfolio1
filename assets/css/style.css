@@ -37,7 +37,7 @@ body {
 .nav-link {
     color: black !important;
     font-weight: bolder;
-    font-size: 125%;
+    font-size: 80%;
 }
 
 @media screen and (max-width: 476px) {
@@ -66,13 +66,15 @@ body {
     font-weight: 900;
     font-size: 200%;
     margin-top: 2%;
+    margin-left: 25%;
     color: darkblue;
 }
 
 .profession {
     font-weight: bolder;
-    font-size: 200%;
+    font-size: 150%;
     color: darkblue;
+    margin-left: 30%;
 }
 
 
@@ -89,13 +91,14 @@ body {
 
 .profilePic {
     margin-top: 30px;
-    margin-bottom: 50px;
-    width: 40%;
+    margin-bottom: 40px;
+    width: 60%;
     border-style: solid;
     border-color: white;
     border-width: 15px;
-    border-bottom-width: 20px;
-    margin-left: 10px;
+    border-bottom-width: 20;%
+    margin-right: 40%;
+
 }
 
 
